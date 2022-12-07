@@ -1,7 +1,7 @@
 Thie is the Project for Group 6
 
-Nathaniel Dakin 
-Dealia Dunbar
-Brandon Schafer
-Kharief Marson
+Nathaniel Dakin <br>
+Dealia Dunbar <br>
+Brandon Schafer <br>
+Kharief Marson <br>
 Kyle Campbell
